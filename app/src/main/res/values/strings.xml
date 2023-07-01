@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prova1Jeffao2_Philipe</string>
+    <string name="inserir">Inserir</string>
+    <string name="remover">Remover</string>
+    <string name="alterar">Alterar</string>
+    <string name="nome">nome</string>
+    <string name="caixa">Caixa</string>
+    <string name="cnpj">CNPJ</string>
+</resources>
